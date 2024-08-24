@@ -1,0 +1,254 @@
+Emp_ID,Department_ID,First_Name,Last_Name,Gender,Date_of_Birth,Hire_Date,Marital_Status,Organizational_Level,Business_Unit,SL,CL,AL,ML,PL,LWP,CS,UL,TSL,TCL,TAL,TML,TPL,TP,TA,TLT,TND,Medical_Verification
+1001,3,Laura,Randall,Male,27-Oct-76,19-Jun-08,Married,High Level,Unit-8,3,7,10,0,5,4,3,1,14,10,18,0,7,298,24,33,331,Yes
+1005,3,Karen,Thompson,Male,17-May-77,7-Oct-08,Married,Mid Level,Unit-5,7,5,9,0,5,0,3,0,14,10,18,0,7,292,70,29,321,No
+1002,1,Danielle,Moore,Male,10-Feb-85,2-Jan-08,Divorced,Mid Level,Unit-1,6,6,8,0,0,5,2,1,14,10,18,0,7,296,22,28,324,No
+1021,3,Sherri,Edwards,Male,9-Jan-68,14-Jun-07,Divorced,High Level,Unit-6,8,7,11,0,0,4,3,0,14,10,18,0,7,297,58,33,330,No
+1004,2,Christopher,Kelly,Male,4-Dec-88,8-Jul-08,Widowed,Mid Level,Unit-9,4,6,9,0,0,5,3,0,14,10,18,0,7,295,26,27,322,No
+1003,4,Michael,Franco,Male,26-Aug-84,12-May-08,Single,Mid Level,Unit-2,1,5,8,0,0,0,2,0,14,10,18,0,7,291,31,16,307,No
+1015,4,Michael,Russell,Male,25-Dec-94,27-Apr-07,Single,Operational,Unit-9,2,7,10,0,0,2,3,1,14,10,18,0,7,297,63,25,322,No
+1017,3,William,Mayer,Male,29-Mar-91,30-Jun-08,Divorced,Mid Level,Unit-9,5,6,8,0,0,3,3,1,14,10,18,0,7,294,29,26,320,No
+1014,3,Yolanda,Jackson,Male,4-Dec-83,19-Feb-07,Single,Operational,Unit-7,4,6,8,0,0,4,3,1,14,10,18,0,7,295,28,26,321,No
+1007,5,Stephen,Campos,Male,11-Aug-85,26-Mar-07,Divorced,High Level,Unit-9,6,6,10,0,0,3,4,0,14,10,18,0,7,299,27,29,328,No
+1010,4,Robert,Thomas,Male,1-Nov-80,31-Aug-08,Married,High Level,Unit-7,1,5,11,0,6,3,4,1,14,10,18,0,7,295,69,31,326,No
+1006,6,Kenneth,Robinson,Male,23-Oct-92,6-Aug-07,Widowed,High Level,Unit-7,8,5,9,0,0,3,2,0,14,10,18,0,7,291,62,27,318,No
+1013,5,Laura,Smith,Male,16-Oct-73,7-Jun-07,Single,Operational,Unit-1,2,6,9,0,0,4,3,0,14,10,18,0,7,293,40,24,317,No
+1008,3,Justin,Sanford,Male,12-Mar-90,2-Sep-08,Single,Mid Level,Unit-10,2,5,8,0,0,5,3,1,14,10,18,0,7,297,26,24,321,No
+1009,3,Ronnie,Juarez,Male,11-May-80,3-Nov-07,Widowed,High Level,Unit-6,5,6,10,0,0,4,4,1,14,10,18,0,7,298,36,30,328,No
+1011,1,Stephanie,Costa,Male,16-Aug-84,8-Nov-07,Single,Operational,Unit-3,6,5,11,0,0,2,2,1,14,10,18,0,7,295,41,27,322,No
+1012,2,Shirley,Patton,Male,25-Feb-85,8-Sep-08,Married,Mid Level,Unit-5,3,5,12,0,6,5,2,0,14,10,18,0,7,293,62,33,326,No
+1016,3,Rachel,Galvan,Male,21-Apr-68,10-Aug-08,Married,High Level,Unit-9,1,5,12,0,6,2,4,0,14,10,18,0,7,291,33,30,321,No
+1018,4,Emily,Carter,Male,29-Apr-66,23-Nov-07,Married,Operational,Unit-6,7,8,12,0,6,5,2,1,14,10,18,0,7,296,46,41,337,No
+1019,4,Brandon,Atkins,Male,28-Mar-91,23-May-08,Single,Operational,Unit-8,5,5,9,0,0,5,2,1,14,10,18,0,7,290,51,27,317,No
+1020,1,Carlos,Gonzalez,Male,1-Jan-88,28-Dec-07,Widowed,Mid Level,Unit-2,5,8,10,0,0,4,4,1,14,10,18,0,7,298,34,32,330,No
+1022,3,Robert,Murray,Male,4-Mar-77,12-Jan-08,Widowed,High Level,Unit-3,3,6,8,0,0,2,2,1,14,10,18,0,7,300,34,22,322,No
+1023,4,Kimberly,Morgan,Male,13-Jul-72,10-Dec-07,Divorced,Operational,Unit-1,7,5,10,0,0,4,2,0,14,10,18,0,7,299,48,28,327,No
+1024,3,Jason,Williams,Male,19-Apr-76,11-Oct-08,Divorced,Mid Level,Unit-6,1,7,12,0,0,4,3,0,14,10,18,0,7,295,42,27,322,No
+1025,2,Jonathan,Brooks,Male,7-Mar-68,2-Jun-07,Widowed,Mid Level,Unit-9,7,8,8,0,0,4,2,1,14,10,18,0,7,296,26,30,326,No
+1026,3,Robert,Kim,Male,12-Sep-65,21-Mar-08,Widowed,Mid Level,Unit-1,1,5,9,0,0,0,4,1,14,10,18,0,7,296,65,20,316,No
+1027,6,George,Blake,Male,3-Jan-78,26-May-07,Divorced,Mid Level,Unit-3,1,8,9,0,0,0,2,0,14,10,18,0,7,295,36,20,315,No
+1028,1,Laura,Kent,Male,12-Jan-91,29-Jan-07,Widowed,High Level,Unit-8,8,6,9,0,0,0,4,0,14,10,18,0,7,294,54,27,321,No
+1029,6,Vanessa,Mcdaniel,Male,9-Jan-86,23-Jun-07,Single,Mid Level,Unit-1,2,5,12,0,0,0,3,1,14,10,18,0,7,299,48,23,322,No
+1030,3,Joseph,Carr,Male,8-Feb-88,19-Mar-07,Single,Mid Level,Unit-2,8,8,8,0,0,3,2,0,14,10,18,0,7,293,29,29,322,No
+1031,3,Nathan,Mullins,Male,19-Dec-75,13-Aug-07,Widowed,High Level,Unit-10,4,5,9,0,0,2,4,1,14,10,18,0,7,298,22,25,323,No
+1032,3,William,Hines,Male,26-Jul-69,9-Apr-08,Single,Mid Level,Unit-5,4,8,8,0,0,5,4,0,14,10,18,0,7,295,38,29,324,No
+1033,5,Faith,Brown,Male,12-Nov-69,11-Feb-07,Married,Mid Level,Unit-6,1,7,8,0,6,5,4,1,14,10,18,0,7,295,33,32,327,No
+1034,5,James,Tucker,Male,5-Jun-80,16-May-08,Widowed,Operational,Unit-8,6,6,12,0,0,2,2,0,14,10,18,0,7,299,36,28,327,No
+1035,3,Steven,Pena,Male,18-Dec-92,1-Jan-08,Widowed,Mid Level,Unit-10,8,6,10,0,0,3,2,1,14,10,18,0,7,298,43,30,328,No
+1036,4,Caitlin,Johnson,Male,7-Jul-70,7-Feb-08,Divorced,High Level,Unit-2,7,7,10,0,0,3,3,1,14,10,18,0,7,292,63,31,323,No
+1037,1,Frank,Combs,Male,22-Mar-84,6-May-08,Single,Operational,Unit-9,2,8,8,0,0,2,3,0,14,10,18,0,7,293,37,23,316,No
+1038,4,Ashley,Campbell,Male,9-Jul-73,3-Jan-07,Widowed,Operational,Unit-10,4,6,8,0,0,2,2,0,14,10,18,0,7,297,66,22,319,No
+1039,6,Michael,Myers,Male,10-Aug-88,10-Jan-07,Married,Operational,Unit-1,1,6,10,0,6,4,3,1,14,10,18,0,7,292,69,31,323,No
+1040,2,Heather,Washington,Male,8-Apr-80,3-Jun-07,Married,Operational,Unit-10,5,8,12,0,6,3,2,1,14,10,18,0,7,297,52,37,334,No
+1041,3,Keith,Sullivan,Male,28-Nov-95,7-Sep-07,Married,Mid Level,Unit-8,4,8,8,0,6,5,3,0,14,10,18,0,7,298,34,34,332,No
+1042,2,Dalton,Fisher,Male,13-Dec-75,16-Jul-07,Widowed,Operational,Unit-8,3,5,11,0,0,3,2,1,14,10,18,0,7,299,25,25,324,No
+1043,3,Angela,Hardy,Male,4-Sep-82,12-May-08,Divorced,Mid Level,Unit-8,8,7,12,0,0,3,4,0,14,10,18,0,7,295,34,34,329,No
+1044,1,Amy,Miller,Male,22-May-69,2-Apr-08,Divorced,Operational,Unit-1,7,6,12,0,0,4,4,1,14,10,18,0,7,291,65,34,325,No
+1045,3,Chloe,Kennedy,Male,16-Jan-92,7-May-08,Divorced,High Level,Unit-1,2,6,11,0,0,3,4,1,14,10,18,0,7,299,27,27,326,No
+1046,2,Jonathan,Ramirez,Male,6-Feb-94,25-Sep-08,Widowed,High Level,Unit-3,5,6,9,0,0,3,2,0,14,10,18,0,7,292,30,25,317,No
+1047,3,Sharon,Bishop,Male,12-Mar-83,4-Jul-07,Divorced,Operational,Unit-10,4,6,8,0,0,2,4,1,14,10,18,0,7,297,70,25,322,No
+1048,4,Christopher,Thornton,Male,28-Jun-82,23-Aug-07,Widowed,Operational,Unit-6,6,8,9,0,0,4,3,0,14,10,18,0,7,298,52,30,328,No
+1049,4,Cory,Vaughan,Male,16-Feb-80,31-Aug-07,Divorced,Operational,Unit-5,3,7,10,0,0,5,4,0,14,10,18,0,7,295,56,29,324,No
+1050,1,Adam,Sellers,Male,6-Dec-67,6-Aug-07,Married,High Level,Unit-5,2,5,11,0,6,5,4,0,14,10,18,0,7,291,30,33,324,No
+1051,3,James,Goodman,Male,29-Jan-68,10-Sep-07,Widowed,Operational,Unit-6,3,8,8,0,0,2,2,0,14,10,18,0,7,294,52,23,317,No
+1052,3,William,Rodriguez,Male,14-Feb-84,7-Aug-07,Single,High Level,Unit-5,5,8,9,0,0,3,3,0,14,10,18,0,7,293,61,28,321,No
+1053,2,Stephanie,Hanson,Male,21-Apr-77,9-Feb-07,Single,Operational,Unit-3,7,8,9,0,0,4,3,0,14,10,18,0,7,297,59,31,328,No
+1054,2,Virginia,Brown,Male,20-Jan-76,16-Aug-08,Married,High Level,Unit-8,1,5,8,0,6,3,4,1,14,10,18,0,7,293,35,28,321,No
+1055,2,Joseph,Fowler,Male,7-Dec-84,12-Apr-08,Married,High Level,Unit-1,4,6,9,0,3,5,4,1,14,10,18,0,7,292,36,32,324,No
+1056,2,Michele,Coleman,Male,22-Oct-69,22-Mar-08,Divorced,Mid Level,Unit-8,5,5,11,0,0,2,4,0,14,10,18,0,7,297,40,27,324,No
+1057,3,Jenna,Snyder,Male,7-Nov-94,12-Dec-07,Divorced,Mid Level,Unit-1,6,5,8,0,0,2,4,0,14,10,18,0,7,294,36,25,319,No
+1058,5,Gregory,Moore,Male,28-Aug-80,14-Oct-08,Married,Operational,Unit-7,8,7,9,0,2,3,3,1,14,10,18,0,7,299,34,33,332,No
+1059,3,Joshua,Pope,Male,1-Aug-72,1-Apr-07,Married,Mid Level,Unit-10,8,7,8,0,0,2,3,0,14,10,18,0,7,295,66,28,323,No
+1060,3,Anthony,Greene,Male,21-Sep-84,23-Jun-08,Married,Mid Level,Unit-5,8,8,8,0,0,4,2,0,14,10,18,0,7,295,54,30,325,No
+1061,2,Jeffrey,Benson,Male,17-Mar-74,18-Jul-07,Divorced,Mid Level,Unit-10,5,5,9,0,0,5,4,0,14,10,18,0,7,294,22,28,322,No
+1062,4,Heather,Dominguez,Male,22-Feb-87,6-Apr-07,Widowed,Mid Level,Unit-9,7,7,12,0,0,2,3,1,14,10,18,0,7,297,70,32,329,No
+1063,4,Rodney,Guzman,Male,4-Feb-89,27-Dec-07,Divorced,Operational,Unit-9,8,5,9,0,0,2,4,0,14,10,18,0,7,295,46,28,323,No
+1064,6,Douglas,Carpenter,Male,11-Jan-70,15-Oct-08,Married,Operational,Unit-7,5,5,10,0,0,2,3,1,14,10,18,0,7,292,30,26,318,No
+1065,4,Nicholas,Bright,Male,12-Nov-73,25-Feb-07,Married,Operational,Unit-2,5,5,8,0,0,4,3,0,14,10,18,0,7,295,20,25,320,No
+1066,3,Barbara,Lopez,Female,30-Jan-77,29-Sep-08,Married,High Level,Unit-4,4,7,8,0,0,2,2,1,14,10,18,120,0,294,37,24,318,No
+1067,5,Steven,Martinez,Female,4-Jun-67,26-Oct-08,Single,High Level,Unit-5,4,5,9,0,0,2,3,1,14,10,18,120,0,300,65,24,324,No
+1068,6,Laura,Johnson,Female,15-Aug-83,5-Oct-07,Widowed,High Level,Unit-10,8,8,9,0,0,4,3,1,14,10,18,120,0,292,69,33,325,No
+1069,3,Angelica,Bennett,Female,17-May-82,29-Dec-07,Divorced,High Level,Unit-7,4,8,10,0,0,3,4,0,14,10,18,120,0,299,20,29,328,No
+1070,4,Rebekah,Wright,Female,15-Feb-78,22-Oct-08,Married,Operational,Unit-3,2,6,8,0,0,2,2,0,14,10,18,120,0,296,35,20,316,No
+1071,4,Max,Hudson,Female,24-Oct-93,10-Nov-08,Widowed,Operational,Unit-5,7,6,12,0,0,5,4,0,14,10,18,120,0,292,43,34,326,No
+1072,2,Benjamin,Brown,Female,18-Feb-67,27-Nov-08,Widowed,Operational,Unit-3,7,5,8,0,0,5,3,0,14,10,18,120,0,290,40,28,318,No
+1073,3,Stacie,Ochoa,Female,14-Apr-85,23-Apr-08,Widowed,Mid Level,Unit-2,2,6,9,0,0,5,3,0,14,10,18,120,0,295,32,25,320,No
+1074,3,Elizabeth,Beasley,Female,13-Feb-85,27-Feb-07,Married,Mid Level,Unit-9,6,6,9,0,0,2,4,0,14,10,18,120,0,298,65,27,325,No
+1075,4,Catherine,Blake,Female,25-Jan-87,10-Jun-07,Single,High Level,Unit-9,5,6,11,0,0,3,4,1,14,10,18,120,0,298,55,30,328,No
+1076,4,James,Fletcher,Female,28-Jul-90,14-Feb-07,Divorced,Mid Level,Unit-5,7,8,9,0,0,4,3,0,14,10,18,120,0,296,67,31,327,No
+1077,3,Michael,Decker,Female,5-Feb-93,4-Jan-07,Divorced,Operational,Unit-5,7,7,11,0,0,4,4,0,14,10,18,120,0,291,37,33,324,No
+1078,2,Lauren,Cochran,Female,13-May-79,16-Nov-07,Married,Operational,Unit-1,2,5,9,0,0,4,2,0,14,10,18,120,0,299,25,22,321,No
+1079,1,Gabrielle,Russo,Female,18-May-72,24-Dec-07,Divorced,Mid Level,Unit-7,8,8,12,0,0,5,3,0,14,10,18,120,0,291,28,36,327,No
+1080,3,Kristen,Dawson,Female,12-Sep-88,8-Jun-07,Single,Operational,Unit-2,3,7,10,0,0,3,4,0,14,10,18,120,0,298,41,27,325,No
+1081,4,Steven,Willis,Female,31-Jul-73,5-Apr-07,Widowed,High Level,Unit-5,7,6,12,0,0,3,2,0,14,10,18,120,0,295,56,30,325,No
+1082,1,Anthony,Avila,Female,22-Feb-82,24-Mar-08,Married,High Level,Unit-9,4,6,11,0,0,4,2,1,14,10,18,120,0,292,31,28,320,No
+1083,4,Stacy,Cole,Female,12-Aug-85,30-May-07,Divorced,Mid Level,Unit-6,4,6,9,0,0,3,3,1,14,10,18,120,0,292,53,26,318,No
+1084,4,Stephanie,Stokes,Female,23-Aug-67,3-Jun-07,Single,Operational,Unit-2,1,5,11,0,0,3,2,0,14,10,18,120,0,293,47,22,315,No
+1085,4,Michael,Pena,Female,15-Apr-70,6-Oct-08,Widowed,High Level,Unit-10,1,8,12,0,0,4,2,1,14,10,18,120,0,298,22,28,326,No
+1086,3,Rachel,Salazar,Female,2-Apr-95,2-Apr-08,Married,Operational,Unit-2,7,7,12,60,0,4,2,0,14,10,18,120,0,290,24,92,382,No
+1087,2,Vickie,Ramirez,Female,13-Sep-73,13-Sep-08,Married,Operational,Unit-8,8,6,8,52,0,4,4,1,14,10,18,120,0,297,26,83,380,No
+1088,4,Jessica,Rivera,Female,21-Apr-83,10-Jun-07,Widowed,High Level,Unit-5,6,5,11,0,0,2,3,1,14,10,18,120,0,290,64,28,318,No
+1089,3,Wesley,Olson,Female,25-Mar-85,28-Nov-08,Married,Mid Level,Unit-9,4,8,10,30,0,2,2,1,14,10,18,120,0,297,57,57,354,No
+1090,5,Beth,Patterson,Female,11-May-78,2-Aug-07,Married,High Level,Unit-9,1,6,8,60,0,2,3,1,14,10,18,120,0,291,39,81,372,No
+1091,4,Robert,Rodriguez,Female,9-Jun-73,28-Nov-08,Single,Operational,Unit-3,7,7,12,0,0,5,2,0,14,10,18,120,0,294,44,33,327,No
+1092,3,Frank,Arroyo,Female,7-Jul-90,4-Aug-08,Widowed,High Level,Unit-8,4,7,8,0,0,5,4,0,14,10,18,120,0,291,43,28,319,No
+1093,6,Brian,Garcia,Female,27-Jun-90,10-Feb-08,Widowed,High Level,Unit-4,7,8,10,0,0,3,3,1,14,10,18,120,0,290,35,32,322,No
+1094,3,Brenda,Russell,Female,25-Feb-65,10-Feb-08,Widowed,Mid Level,Unit-9,6,5,12,0,0,2,4,0,14,10,18,120,0,294,31,29,323,No
+1095,6,Betty,Hall,Female,1-Aug-84,27-Jun-08,Widowed,Mid Level,Unit-2,7,7,8,0,0,2,4,1,14,10,18,120,0,293,23,29,322,No
+1096,3,Jose,Palmer,Female,30-Jul-72,23-Jan-07,Widowed,Operational,Unit-3,2,6,10,0,0,2,3,1,14,10,18,120,0,290,51,24,314,No
+1097,1,Adam,Price,Female,21-Sep-85,18-Sep-07,Married,Mid Level,Unit-5,2,5,12,110,0,5,3,1,14,10,18,120,0,295,70,138,433,No
+1098,3,Kelly,Stanley,Female,31-Dec-79,4-Jun-07,Married,High Level,Unit-5,3,5,8,115,0,4,2,0,14,10,18,120,0,300,67,137,437,No
+1099,1,Amanda,Franklin,Female,16-Dec-71,4-May-08,Widowed,Operational,Unit-4,1,6,12,0,0,5,4,0,14,10,18,120,0,298,28,28,326,No
+1100,1,Veronica,West,Female,15-May-78,22-Jan-08,Widowed,Mid Level,Unit-2,5,6,10,0,0,2,2,0,14,10,18,120,0,296,36,25,321,No
+1101,3,Alexander,Ingram,Female,28-Apr-95,20-Jun-08,Single,Operational,Unit-10,3,7,11,0,0,2,4,1,14,10,18,120,0,290,64,28,318,No
+1102,4,Jessica,Flores,Female,19-Mar-70,9-Oct-08,Divorced,Operational,Unit-10,5,5,9,0,0,2,2,0,14,10,18,120,0,295,25,23,318,No
+1103,4,Sheri,Price,Female,12-Apr-73,10-Aug-08,Single,High Level,Unit-8,6,6,10,0,0,4,2,0,14,10,18,120,0,297,25,28,325,No
+1104,6,David,Pennington,Female,6-Jan-90,20-Mar-08,Widowed,Mid Level,Unit-1,5,7,8,0,0,2,4,1,14,10,18,120,0,291,60,27,318,No
+1105,6,Courtney,Mayo,Female,20-Dec-88,25-Oct-08,Married,Operational,Unit-7,4,7,12,120,0,4,2,0,14,10,18,120,0,290,29,149,439,No
+1106,6,Theodore,Howell,Female,30-Aug-81,12-Aug-08,Widowed,Mid Level,Unit-1,3,6,11,0,0,4,2,1,14,10,18,120,0,292,57,27,319,No
+1107,3,Matthew,Hale,Female,5-Aug-70,20-Apr-07,Married,Mid Level,Unit-10,3,7,8,120,0,3,3,0,14,10,18,120,0,299,31,144,443,No
+1108,6,Wendy,Spencer,Female,17-Feb-76,12-Sep-08,Married,Operational,Unit-3,1,5,9,120,0,4,2,0,14,10,18,120,0,297,51,141,438,No
+1109,2,Robert,Graham,Female,2-Nov-81,15-Jun-08,Married,High Level,Unit-1,6,7,11,120,0,4,4,0,14,10,18,120,0,294,55,152,446,No
+1110,4,Judith,Lopez,Female,7-Dec-65,15-Sep-08,Divorced,Operational,Unit-4,6,7,12,0,0,4,4,1,14,10,18,120,0,297,48,34,331,No
+1111,6,Danielle,Snow,Female,4-Jan-69,2-Mar-07,Divorced,Mid Level,Unit-6,6,8,11,0,0,2,2,1,14,10,18,120,0,292,42,30,322,No
+1112,3,Cheryl,Gutierrez,Female,31-Mar-84,26-Apr-07,Married,Operational,Unit-7,8,7,10,120,0,2,2,1,14,10,18,120,0,294,28,150,444,No
+1113,4,Philip,Cohen,Female,10-Apr-72,31-Jul-08,Married,Mid Level,Unit-4,8,5,12,100,0,3,4,0,14,10,18,120,0,298,28,132,430,No
+1114,3,Katherine,Baker,Female,29-Jan-88,31-Dec-07,Widowed,Mid Level,Unit-5,3,8,11,0,0,3,2,1,14,10,18,120,0,292,43,28,320,No
+1115,6,Tammy,Wallace,Female,6-Sep-76,5-Nov-08,Divorced,Operational,Unit-4,6,7,11,0,0,2,2,0,14,10,18,120,0,292,61,28,320,No
+1116,3,Angela,Taylor,Female,12-Jul-92,10-Jul-07,Married,Mid Level,Unit-2,2,5,12,100,0,3,2,0,14,10,18,120,0,297,57,124,421,No
+1117,4,Christopher,Sanders,Female,9-Jun-94,15-Jan-07,Married,High Level,Unit-3,6,5,12,100,0,2,4,1,14,10,18,120,0,293,42,130,423,No
+1118,3,Amy,Smith,Female,18-Feb-71,29-May-08,Married,High Level,Unit-5,4,7,10,100,0,5,2,1,14,10,18,120,0,294,48,129,423,No
+1119,4,Jennifer,Padilla,Female,14-Apr-77,30-Apr-08,Single,High Level,Unit-5,8,8,8,0,0,3,4,1,14,10,18,120,0,292,65,32,324,No
+1120,4,Shelly,Miranda,Female,26-Jun-80,8-Apr-08,Divorced,High Level,Unit-4,2,6,11,0,0,4,3,1,14,10,18,120,0,299,26,27,326,No
+1121,5,Jaclyn,Ryan,Female,30-Jun-90,1-Aug-07,Single,Mid Level,Unit-2,7,6,9,0,0,4,4,1,14,10,18,120,0,291,45,31,322,No
+1122,5,Bryan,Diaz,Female,23-Oct-76,14-Mar-07,Widowed,Operational,Unit-2,3,7,11,0,0,2,4,1,14,10,18,120,0,295,28,28,323,No
+1123,4,Hannah,Le,Female,27-Sep-71,14-Oct-07,Single,High Level,Unit-9,2,6,8,0,0,2,2,0,14,10,18,120,0,297,32,20,317,No
+1124,1,Todd,Martinez,Female,20-May-80,4-Jul-08,Single,Operational,Unit-7,8,5,10,0,0,3,4,0,14,10,18,120,0,294,61,30,324,No
+1125,4,Brian,Kelly,Female,20-Mar-69,17-Feb-08,Widowed,Operational,Unit-3,7,7,9,0,0,2,3,0,14,10,18,120,0,292,70,28,320,No
+1126,4,William,Schneider,Female,3-Feb-95,24-Aug-08,Widowed,High Level,Unit-1,2,7,10,0,0,5,3,0,14,10,18,120,0,299,52,27,326,No
+1127,4,Sarah,Mendoza,Female,21-May-71,22-May-07,Married,Operational,Unit-4,3,6,10,100,0,3,2,1,14,10,18,120,0,297,45,125,422,No
+1128,3,Jacob,Stevens,Female,28-Aug-76,28-Jul-07,Widowed,High Level,Unit-2,1,7,11,0,0,4,4,0,14,10,18,120,0,297,34,27,324,No
+1129,3,Wesley,Henderson,Female,27-Jan-75,11-Nov-07,Single,High Level,Unit-2,1,8,10,0,0,5,3,0,14,10,18,120,0,294,41,27,321,No
+1130,3,Shane,Mendez,Female,7-Jul-88,16-Mar-08,Married,Mid Level,Unit-7,5,7,8,100,0,2,3,1,14,10,18,120,0,296,38,126,422,No
+1131,2,John,Gomez,Female,8-Oct-86,10-May-07,Married,Mid Level,Unit-4,3,7,9,100,0,3,2,1,14,10,18,120,0,296,59,125,421,No
+1132,2,Shelly,Morris,Male,10-Aug-79,9-Mar-07,Widowed,High Level,Unit-6,7,5,12,0,0,4,2,0,14,10,18,0,7,290,22,30,320,No
+1133,3,Sara,Mccarthy,Male,22-Oct-87,21-Feb-08,Widowed,Mid Level,Unit-10,5,8,8,0,0,5,2,0,14,10,18,0,7,291,37,28,319,No
+1134,1,Eddie,Lawson,Male,9-Jul-85,29-Jan-08,Divorced,High Level,Unit-1,1,7,12,0,0,2,4,0,14,10,18,0,7,291,41,26,317,No
+1135,5,Laura,Brown,Male,18-Mar-95,1-Aug-08,Single,Mid Level,Unit-9,8,7,11,0,0,4,4,1,14,10,18,0,7,290,49,35,325,No
+1136,2,Donald,Yoder,Male,19-Sep-80,27-Oct-07,Widowed,Operational,Unit-7,7,6,10,0,0,2,3,0,14,10,18,0,7,300,20,28,328,No
+1137,2,Michelle,Gallagher,Male,19-Oct-65,12-Oct-08,Divorced,Operational,Unit-9,3,7,12,0,0,4,4,1,14,10,18,0,7,295,38,31,326,No
+1138,2,Kyle,Kerr,Male,13-Jan-89,18-Oct-07,Single,Mid Level,Unit-5,5,8,8,0,0,5,4,0,14,10,18,0,7,297,40,30,327,No
+1139,5,Thomas,Webster,Male,20-Jan-90,13-Oct-07,Widowed,Operational,Unit-8,2,5,8,0,0,5,3,1,14,10,18,0,7,299,52,24,323,No
+1140,6,Alicia,Scott,Male,13-Oct-71,28-Jan-08,Married,High Level,Unit-10,8,6,8,0,0,3,2,0,14,10,18,0,7,295,45,27,322,No
+1141,4,Leslie,Webb,Male,7-Aug-67,20-Aug-08,Single,High Level,Unit-10,6,8,11,0,0,5,2,1,14,10,18,0,7,297,25,33,330,No
+1142,4,Jennifer,Lawrence,Male,4-Nov-69,29-Jun-07,Single,High Level,Unit-6,3,7,8,0,0,4,2,0,14,10,18,0,7,299,40,24,323,No
+1143,2,Gloria,Gomez,Male,2-Apr-72,30-Jul-08,Widowed,High Level,Unit-6,2,6,11,0,0,4,3,1,14,10,18,0,7,299,24,27,326,No
+1144,3,Kelsey,Wood,Male,1-Jan-67,30-Oct-07,Widowed,High Level,Unit-10,8,6,9,0,0,5,3,1,14,10,18,0,7,295,45,32,327,No
+1145,4,Michael,Nelson,Male,19-Jul-86,16-Jan-07,Divorced,High Level,Unit-2,6,8,11,0,0,2,2,1,14,10,18,0,7,295,40,30,325,No
+1146,3,Shane,Patterson,Male,16-Jul-95,23-Mar-08,Married,Operational,Unit-10,1,5,8,0,0,3,2,1,14,10,18,0,7,297,37,20,317,No
+1147,3,Samantha,Stewart,Male,17-Jan-75,9-Sep-08,Married,Operational,Unit-3,4,7,10,0,0,4,3,1,14,10,18,0,7,296,35,29,325,No
+1148,2,Debra,Ellis,Male,20-Nov-74,2-Jun-08,Single,Mid Level,Unit-10,7,7,12,0,0,3,4,0,14,10,18,0,7,293,22,33,326,No
+1149,3,Lorraine,Friedman,Male,20-Nov-81,2-Sep-08,Married,Operational,Unit-3,6,7,8,0,0,3,2,0,14,10,18,0,7,297,34,26,323,No
+1150,3,Amy,Miller,Male,14-Nov-72,12-Jan-08,Married,Operational,Unit-1,6,8,11,0,0,3,2,0,14,10,18,0,7,292,69,30,322,No
+1151,5,Marisa,Murray,Male,18-Jul-87,12-Jun-07,Married,Operational,Unit-8,5,6,12,0,0,3,2,0,14,10,18,0,7,300,65,28,328,No
+1152,2,Scott,Floyd,Male,27-Jan-67,23-Sep-08,Single,Mid Level,Unit-6,4,6,8,0,0,5,4,0,14,10,18,0,7,296,60,27,323,No
+1153,2,Deborah,Thompson,Male,6-Nov-95,1-Aug-07,Married,Mid Level,Unit-10,5,8,11,0,0,3,2,1,14,10,18,0,7,298,32,30,328,No
+1154,3,Susan,Flores,Male,4-Apr-89,4-Mar-07,Divorced,High Level,Unit-6,8,7,12,0,0,5,3,0,14,10,18,0,7,294,61,35,329,No
+1155,2,Kevin,Smith,Male,12-Dec-91,22-Sep-08,Divorced,High Level,Unit-10,1,6,12,0,0,2,4,1,14,10,18,0,7,296,51,26,322,No
+1156,3,Kristi,Robertson,Male,12-May-91,29-Apr-08,Divorced,Operational,Unit-8,7,7,11,0,0,3,3,0,14,10,18,0,7,295,56,31,326,No
+1157,3,Leah,Evans,Male,25-May-86,10-Jan-08,Divorced,Operational,Unit-3,4,5,12,0,0,2,3,1,14,10,18,0,7,294,37,27,321,No
+1158,4,Henry,Browning,Male,21-Oct-79,5-Sep-07,Widowed,High Level,Unit-4,2,6,11,0,0,3,2,1,14,10,18,0,7,294,27,25,319,No
+1159,4,Jennifer,Webster,Male,1-Nov-95,30-Nov-07,Married,Operational,Unit-10,4,5,11,0,0,3,2,1,14,10,18,0,7,297,70,26,323,No
+1160,3,Donna,Hahn,Male,18-Jun-94,9-Nov-08,Single,Operational,Unit-9,2,5,12,0,0,3,3,0,14,10,18,0,7,299,59,25,324,No
+1161,4,Ryan,Ortega,Male,12-Jan-68,10-Apr-07,Single,Operational,Unit-2,5,7,11,0,0,2,2,0,14,10,18,0,7,295,46,27,322,No
+1162,2,Laura,Hooper,Male,25-Apr-95,27-Aug-08,Divorced,High Level,Unit-4,7,7,9,0,0,5,3,1,14,10,18,0,7,299,26,32,331,No
+1163,3,Amanda,Rubio,Male,29-Jun-66,4-Jan-08,Divorced,Mid Level,Unit-6,5,6,12,0,0,2,3,1,14,10,18,0,7,299,30,29,328,No
+1164,2,Mary,Rodriguez,Male,28-Jul-83,26-Jan-08,Married,Operational,Unit-8,8,8,8,0,0,5,2,1,14,10,18,0,7,290,62,32,322,No
+1165,3,Christopher,Davis,Male,31-Jan-88,25-Dec-07,Single,Mid Level,Unit-3,5,7,9,0,0,5,2,0,14,10,18,0,7,294,56,28,322,No
+1166,4,Stephanie,Montgomery,Male,11-Feb-82,1-Apr-08,Widowed,Mid Level,Unit-1,2,6,9,0,0,5,2,1,14,10,18,0,7,292,55,25,317,No
+1167,3,Julie,Ford,Male,13-Jan-87,11-Feb-08,Divorced,Operational,Unit-3,1,5,10,0,0,3,3,1,14,10,18,0,7,295,36,23,318,No
+1168,1,Cynthia,Sherman,Male,1-Jan-67,11-Jul-08,Widowed,High Level,Unit-3,7,6,9,0,0,5,3,1,14,10,18,0,7,300,59,31,331,No
+1169,3,Sheena,Smith,Male,16-Jan-69,17-Jun-08,Single,Operational,Unit-3,4,7,10,0,0,3,2,0,14,10,18,0,7,292,67,26,318,No
+1170,3,Jennifer,Stanley,Male,8-Jul-92,11-Jun-08,Married,Mid Level,Unit-5,8,6,8,0,0,4,3,0,14,10,18,0,7,293,26,29,322,No
+1171,1,Jason,Gallegos,Male,13-Jun-73,17-Dec-07,Married,Mid Level,Unit-1,6,5,8,0,0,4,3,0,14,10,18,0,7,299,27,26,325,No
+1172,4,Edward,Conley,Male,4-Jul-85,23-Jun-08,Married,Mid Level,Unit-1,2,5,10,0,0,3,4,1,14,10,18,0,7,297,64,25,322,No
+1173,4,Travis,Francis,Male,4-Dec-81,18-Mar-07,Married,Operational,Unit-2,2,5,10,0,0,5,4,0,14,10,18,0,7,295,68,26,321,No
+1174,1,Dan,Salinas,Male,21-Aug-82,8-Nov-08,Single,Mid Level,Unit-3,3,8,9,0,0,3,4,1,14,10,18,0,7,300,59,28,328,No
+1175,3,Adam,Spencer,Male,10-Sep-76,23-Dec-07,Single,Mid Level,Unit-1,7,8,12,0,0,2,3,1,14,10,18,0,7,295,21,33,328,No
+1176,4,Briana,Johnson,Male,10-Jul-69,26-Feb-07,Divorced,Operational,Unit-1,4,7,10,0,0,4,3,1,14,10,18,0,7,294,37,29,323,No
+1177,5,Kenneth,Simmons,Male,26-May-74,13-Oct-07,Single,High Level,Unit-8,3,5,8,0,0,5,3,1,14,10,18,0,7,299,48,25,324,No
+1178,3,Daniel,Smith,Male,5-Sep-79,19-Dec-07,Widowed,High Level,Unit-6,6,8,12,0,0,4,2,1,14,10,18,0,7,298,54,33,331,No
+1179,1,Tracey,Aguirre,Male,26-Mar-80,26-Jul-07,Single,High Level,Unit-7,6,8,10,0,0,5,2,1,14,10,18,0,7,292,67,32,324,No
+1180,3,Mike,Chase,Male,29-Aug-71,5-Apr-08,Married,Operational,Unit-4,4,5,8,0,0,5,3,1,14,10,18,0,7,300,57,26,326,No
+1181,4,Amanda,Thomas,Male,15-Nov-66,28-Jun-07,Widowed,Operational,Unit-9,3,5,8,0,0,4,4,1,14,10,18,0,7,298,43,25,323,No
+1182,3,Donna,Tyler,Male,13-Sep-77,19-Jun-08,Divorced,Operational,Unit-10,7,6,8,0,0,5,2,0,14,10,18,0,7,295,52,28,323,No
+1183,4,Virginia,Ramirez,Male,15-Jul-80,3-Dec-07,Single,Operational,Unit-1,3,8,9,0,0,4,2,1,14,10,18,0,7,292,37,27,319,No
+1184,3,Janet,Valdez,Male,21-Apr-93,3-Feb-08,Widowed,Operational,Unit-2,3,6,10,0,0,4,3,1,14,10,18,0,7,290,59,27,317,No
+1185,3,Michael,Bullock,Male,18-Dec-80,1-Dec-07,Widowed,High Level,Unit-8,4,7,8,0,0,3,3,1,14,10,18,0,7,299,24,26,325,No
+1186,1,Kristopher,Smith,Male,4-Aug-89,16-Sep-08,Widowed,Operational,Unit-4,4,8,11,0,0,3,3,0,14,10,18,0,7,300,56,29,329,No
+1187,3,Joel,Brennan,Male,29-Jul-77,6-Oct-08,Divorced,Mid Level,Unit-3,5,6,8,0,0,5,2,1,14,10,18,0,7,297,59,27,324,No
+1188,1,Cristina,Jordan,Male,16-Mar-69,27-Apr-08,Married,Operational,Unit-10,6,8,12,0,0,5,2,0,14,10,18,0,7,293,48,33,326,No
+1189,4,Bryan,Hodges,Male,12-Nov-93,2-Sep-08,Divorced,High Level,Unit-4,6,6,8,0,0,2,3,0,14,10,18,0,7,291,50,25,316,No
+1190,2,Shane,Hall,Male,28-Feb-81,8-May-08,Married,Mid Level,Unit-9,3,6,8,0,0,3,2,1,14,10,18,0,7,290,49,23,313,No
+1191,1,Ronald,Perry,Male,16-Aug-66,6-Jun-07,Divorced,High Level,Unit-5,6,5,9,0,0,2,2,1,14,10,18,0,7,300,33,25,325,No
+1192,3,Traci,Jones,Male,4-Sep-84,27-Nov-08,Married,Operational,Unit-9,8,8,10,0,0,2,4,1,14,10,18,0,7,293,30,33,326,No
+1193,2,Jennifer,Ortiz,Male,24-Aug-75,16-Dec-07,Widowed,Mid Level,Unit-4,5,7,9,0,0,5,2,0,14,10,18,0,7,293,45,28,321,No
+1194,3,Jose,Anthony,Male,23-Jan-85,24-Jul-07,Widowed,High Level,Unit-6,4,6,10,0,0,2,2,0,14,10,18,0,7,298,42,24,322,No
+1195,3,Cassandra,Diaz,Male,11-Apr-78,7-Apr-08,Married,Mid Level,Unit-2,6,7,8,0,0,4,4,0,14,10,18,0,7,298,60,29,327,No
+1196,2,Christopher,Murphy,Male,11-Oct-93,10-Jan-08,Married,Mid Level,Unit-8,3,8,9,0,0,3,3,1,14,10,18,0,7,299,40,27,326,No
+1197,3,Brianna,Carlson,Male,9-Feb-66,26-Jun-08,Single,Mid Level,Unit-4,3,7,11,0,0,3,2,1,14,10,18,0,7,292,48,27,319,No
+1198,5,Melanie,Sims,Male,9-Jan-66,3-Jun-07,Single,High Level,Unit-2,1,5,8,0,0,4,2,0,14,10,18,0,7,294,46,20,314,No
+1199,1,Stephen,Mullins,Male,5-Aug-86,27-Mar-07,Divorced,Mid Level,Unit-7,5,7,9,0,0,5,3,0,14,10,18,0,7,297,49,29,326,No
+1200,3,Lucas,Davis,Male,10-Mar-69,27-Aug-07,Married,Mid Level,Unit-3,8,5,12,0,0,3,3,1,14,10,18,0,7,296,56,32,328,No
+1201,1,Karen,Mcdowell,Male,5-Jun-94,30-Jan-08,Widowed,Operational,Unit-3,8,7,11,0,0,5,3,0,14,10,18,0,7,294,69,34,328,No
+1202,4,Evan,Alvarez,Male,29-Jul-84,17-Oct-07,Divorced,Operational,Unit-2,3,7,12,0,0,2,4,1,14,10,18,0,7,296,31,29,325,No
+1203,4,Barbara,Mccann,Male,19-Apr-88,5-Jul-08,Divorced,High Level,Unit-9,7,7,12,0,0,5,4,0,14,10,18,0,7,293,56,35,328,No
+1204,3,Melissa,Phelps,Male,9-May-73,25-Nov-07,Married,Operational,Unit-9,2,8,9,0,0,4,3,0,14,10,18,0,7,297,30,26,323,No
+1205,2,Ronald,Savage,Male,26-Apr-77,13-Apr-08,Widowed,High Level,Unit-8,5,6,9,0,0,2,4,1,14,10,18,0,7,297,38,27,324,No
+1206,6,Jeffrey,Bennett,Male,30-Dec-90,27-Sep-07,Divorced,Mid Level,Unit-5,1,8,12,0,0,5,2,0,14,10,18,0,7,296,48,28,324,No
+1207,2,Deanna,Guerrero,Male,16-Apr-94,24-Aug-07,Divorced,High Level,Unit-8,6,6,11,0,0,2,4,1,14,10,18,0,7,291,49,30,321,No
+1208,3,Donna,Medina,Male,2-Jul-88,24-Feb-07,Married,Mid Level,Unit-5,6,6,12,0,0,2,3,0,14,10,18,0,7,290,64,29,319,No
+1209,2,Melissa,Johnson,Male,21-Dec-69,9-Apr-07,Divorced,High Level,Unit-7,3,7,8,0,0,3,2,1,14,10,18,0,7,298,64,24,322,No
+1210,4,Jason,Cohen,Male,14-Sep-85,28-Jul-08,Divorced,Mid Level,Unit-10,8,7,11,0,0,5,3,1,14,10,18,0,7,299,64,35,334,No
+1211,3,Jose,Glass,Male,20-Sep-70,9-Apr-08,Widowed,High Level,Unit-9,1,7,10,0,0,4,2,1,14,10,18,0,7,297,30,25,322,No
+1212,3,Joanne,Strickland,Male,4-Sep-85,7-Aug-07,Married,Mid Level,Unit-10,4,6,9,0,0,2,3,0,14,10,18,0,7,299,69,24,323,No
+1213,3,Justin,Simmons,Male,19-Jul-77,15-Jan-07,Married,High Level,Unit-1,3,6,10,0,0,5,3,1,14,10,18,0,7,296,59,28,324,No
+1214,4,Taylor,Chan,Male,26-Mar-94,7-Feb-08,Divorced,Operational,Unit-10,5,7,12,0,0,5,3,1,14,10,18,0,7,293,40,33,326,No
+1215,2,Kathryn,Perez,Male,22-May-92,15-Jul-07,Single,High Level,Unit-9,6,8,11,0,0,5,4,1,14,10,18,0,7,291,20,35,326,No
+1216,4,Nathan,Jennings,Male,11-Aug-70,12-Apr-07,Widowed,Mid Level,Unit-2,7,5,11,0,0,3,3,1,14,10,18,0,7,293,43,30,323,No
+1217,6,Walter,Erickson,Male,13-Feb-93,15-Apr-07,Married,Operational,Unit-10,2,5,9,0,0,5,2,0,14,10,18,0,7,297,37,23,320,No
+1218,5,Jeffrey,Miller,Male,28-Feb-87,6-May-08,Married,High Level,Unit-4,6,7,10,0,0,3,3,0,14,10,18,0,7,294,41,29,323,No
+1219,3,James,Torres,Male,8-Jan-87,25-Nov-07,Divorced,Mid Level,Unit-5,6,5,8,0,0,5,4,0,14,10,18,0,7,299,32,28,327,No
+1220,6,Natalie,Smith,Male,18-Aug-71,29-Mar-07,Divorced,Operational,Unit-9,6,5,8,0,0,5,4,1,14,10,18,0,7,299,38,29,328,No
+1221,4,Mary,Briggs,Male,4-Jun-76,2-Dec-07,Married,Operational,Unit-8,5,5,11,0,0,5,3,1,14,10,18,0,7,299,31,30,329,No
+1222,2,Michael,Alexander,Male,8-Jul-65,8-Apr-07,Divorced,Mid Level,Unit-5,7,7,12,0,0,2,4,0,14,10,18,0,7,291,36,32,323,No
+1223,3,John,Fowler,Male,22-Mar-81,12-Nov-07,Married,High Level,Unit-1,2,8,10,0,0,2,3,1,14,10,18,0,7,295,48,26,321,No
+1224,1,Juan,Guerrero,Male,22-Dec-91,30-May-08,Single,High Level,Unit-5,4,6,9,0,0,5,3,0,14,10,18,0,7,294,41,27,321,No
+1225,3,Jessica,Thompson,Male,26-Nov-74,6-Aug-07,Single,Mid Level,Unit-10,7,8,9,0,0,4,3,0,14,10,18,0,7,294,50,31,325,No
+1226,6,Rebecca,Garza,Male,18-Mar-88,21-Aug-07,Single,High Level,Unit-10,6,6,10,0,0,3,4,1,14,10,18,0,7,297,49,30,327,No
+1227,4,Debra,Mckee,Male,31-Jan-91,22-Jan-07,Divorced,High Level,Unit-4,4,8,10,0,0,3,3,0,14,10,18,0,7,295,55,28,323,No
+1228,3,Scott,Hartman,Male,16-May-78,3-Sep-08,Married,High Level,Unit-3,7,6,9,0,0,2,2,1,14,10,18,0,7,295,24,27,322,No
+1229,2,Kristin,Downs,Male,22-Jun-89,9-Jul-07,Married,Operational,Unit-5,4,8,9,0,0,4,3,0,14,10,18,0,7,296,22,28,324,No
+1230,2,Haley,Gonzalez,Male,8-Jun-81,16-Jul-07,Divorced,High Level,Unit-1,5,8,10,0,0,3,2,0,14,10,18,0,7,292,29,28,320,No
+1231,2,Stacey,Hammond,Male,29-Sep-68,13-Oct-08,Single,High Level,Unit-3,6,6,9,0,0,2,2,0,14,10,18,0,7,293,70,25,318,No
+1232,6,Allison,Hunter,Male,4-Mar-76,14-May-08,Married,Mid Level,Unit-2,8,5,11,0,0,2,3,1,14,10,18,0,7,297,44,30,327,No
+1233,3,Miranda,Walters,Male,23-Dec-88,3-Feb-08,Single,Operational,Unit-7,8,6,10,0,0,3,2,0,14,10,18,0,7,293,26,29,322,No
+1234,4,Daniel,Klein,Male,14-Aug-83,6-Sep-08,Widowed,High Level,Unit-9,7,5,9,0,0,5,2,0,14,10,18,0,7,290,29,28,318,No
+1235,1,Lindsey,Jones,Male,24-Jul-74,29-Jun-08,Widowed,Mid Level,Unit-10,5,6,11,0,0,3,4,0,14,10,18,0,7,299,61,29,328,No
+1236,6,Johnny,Flowers,Male,18-Nov-71,22-Aug-08,Widowed,Mid Level,Unit-5,3,6,11,0,0,3,3,0,14,10,18,0,7,292,20,26,318,No
+1237,1,Justin,Hill,Male,1-Sep-92,10-May-07,Widowed,Operational,Unit-3,7,5,12,0,0,4,2,0,14,10,18,0,7,298,21,30,328,No
+1238,3,Marc,Craig,Male,1-Sep-78,11-Nov-07,Married,High Level,Unit-5,1,6,12,0,0,3,2,1,14,10,18,0,7,298,56,25,323,No
+1239,4,Stephanie,Dunn,Male,5-Jun-70,24-Jun-08,Single,Mid Level,Unit-9,4,5,11,0,0,4,3,1,14,10,18,0,7,296,46,28,324,No
+1240,4,David,Blair,Male,26-Jul-69,8-Jun-08,Widowed,Operational,Unit-8,8,6,12,0,0,3,2,1,14,10,18,0,7,295,70,32,327,No
+1241,2,Nicole,Wilson,Male,6-Jul-77,22-Apr-08,Married,Mid Level,Unit-6,7,6,12,0,0,2,3,1,14,10,18,0,7,290,67,31,321,No
+1242,3,Kimberly,Clark,Male,1-Aug-91,11-Jul-08,Single,Mid Level,Unit-10,8,5,10,0,0,2,3,1,14,10,18,0,7,296,58,29,325,No
+1243,6,Shawn,Brock,Male,2-May-95,18-Dec-07,Widowed,High Level,Unit-1,5,6,9,0,0,5,2,0,14,10,18,0,7,296,40,27,323,No
+1244,2,Jenna,Richardson,Male,24-Mar-89,13-Jan-08,Widowed,Operational,Unit-5,2,6,11,0,0,5,2,0,14,10,18,0,7,292,51,26,318,No
+1245,4,Kevin,Gillespie,Male,14-Jan-78,9-May-07,Widowed,Operational,Unit-9,3,5,11,0,0,5,3,1,14,10,18,0,7,295,59,28,323,No
+1246,6,Robert,Jackson,Male,12-Feb-80,1-Jan-08,Single,Mid Level,Unit-5,7,6,10,0,0,5,4,1,14,10,18,0,7,295,26,33,328,No
+1247,1,Jennifer,Vega,Male,12-Jan-67,27-Oct-07,Single,Operational,Unit-5,6,5,10,0,0,4,3,0,14,10,18,0,7,295,47,28,323,No
+1248,3,David,Bentley,Male,9-Dec-94,2-Oct-07,Single,Operational,Unit-10,1,6,10,0,0,2,2,1,14,10,18,0,7,292,31,22,314,No
+1249,3,Mason,Washington,Male,7-Feb-72,16-Aug-08,Widowed,Operational,Unit-7,3,6,12,0,0,5,4,1,14,10,18,0,7,297,26,31,328,No
+1250,5,Victoria,Hart,Male,17-Mar-73,8-Sep-08,Widowed,High Level,Unit-9,2,8,9,0,0,4,4,0,14,10,18,0,7,293,50,27,320,No
+1251,6,Rachel,Nicholson,Male,19-Feb-83,14-Dec-07,Married,High Level,Unit-10,3,5,8,0,0,4,4,1,14,10,18,0,7,295,68,25,320,No
+1252,3,Marvin,Wolf,Male,19-Feb-81,21-Jun-08,Widowed,Operational,Unit-4,6,8,12,0,0,4,2,0,14,10,18,0,7,297,47,32,329,No
+1253,3,Latasha,Johnson,Male,30-Jul-76,22-Jul-07,Married,High Level,Unit-5,3,7,10,0,0,3,2,1,14,10,18,0,7,298,62,26,324,No
